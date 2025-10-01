@@ -271,7 +271,7 @@ Total de palabras: 38
 ## 👨‍💻 Autor
 
 **Gabriel Sánchez Heredia**  
-- GitHub: @gabiisnchez (https://github.com/gabiisnchez)
+- GitHub: [@gabiisnchez](https://github.com/gabiisnchez)
 - Email: gabiisnchez@proton.me
 
 ---
