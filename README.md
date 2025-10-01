@@ -236,3 +236,54 @@ Total de palabras: 38
 ### 4. Contenido del archivo entrada.txt
 ![Archivo entrada.txt](screenshots/entrada_txt.png)
 *Captura del contenido del archivo de prueba*
+
+---
+
+## 📌 Notas Importantes
+
+- ✅ Los programas deben ejecutarse desde el directorio raíz del proyecto
+- ✅ El archivo `entrada.txt` debe estar en el mismo directorio donde ejecutas los comandos
+- ✅ Las líneas se consideran "largas" si tienen **estrictamente más de 20 caracteres**
+- ✅ Las palabras se cuentan separando por espacios (uno o más)
+- ✅ No se produce interbloqueo ni inanición en las tuberías
+
+---
+
+## 📚 Tecnologías Utilizadas
+
+- **Java SE** (JDK 8+)
+- **Maven** - Gestión de proyecto y construcción
+- **BufferedReader** - Lectura eficiente de texto
+- **InputStreamReader** - Lectura de entrada estándar
+- **FileReader** - Lectura de archivos
+- **Try-with-resources** - Gestión automática de recursos
+
+---
+
+## 🛠️ Herramientas de Desarrollo
+
+- IDE: IntelliJ IDEA
+- Sistema de construcción: Maven
+- Control de versiones: GitHub
+
+---
+
+## 👨‍💻 Autor
+
+**Gabriel Sánchez Heredia**  
+- GitHub: @gabiisnchez (https://github.com/gabiisnchez)
+- Email: gabiisnchez@proton.me
+
+---
+
+## 📄 Licencia
+
+Este proyecto es parte de una práctica académica evaluable.
+
+---
+
+## 🙏 Agradecimientos
+
+Práctica realizada para la asignatura de Programación de Servicios y Procesos.
+
+---
