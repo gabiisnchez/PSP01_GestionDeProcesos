@@ -1,0 +1,8 @@
+Hola
+Esta es una linea corta
+Esta es una linea que tiene mas de veinte caracteres y sera filtrada
+Mundo
+Esta linea tambien supera los veinte caracteres necesarios
+Adios
+Esta es otra linea larga que definitivamente tiene mas de veinte caracteres
+Fin
